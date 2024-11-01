@@ -10,7 +10,7 @@ Johnny Huang
 Dec-14-2023
 An Analysis of Verizon Stocks
 
-	I conducted my analysis on the currently standard stocks for Verizon Communications Inc. (VZ) from the S&P500. Most of the calculations were carried out on Dec-14-2023 which includes key statistics such as the spot price and calculations for days into the future.
+I conducted my analysis on the currently standard stocks for Verizon Communications Inc. (VZ) from the S&P500. Most of the calculations were carried out on Dec-14-2023 which includes key statistics such as the spot price and calculations for days into the future.
 
 	I’ve used some sources throughout my project and those are:
 To find the spot prices and dividend rates: https://www.morningstar.com/stocks/xnys/vz/dividends
